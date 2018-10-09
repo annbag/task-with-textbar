@@ -2,21 +2,28 @@
    margin: 0;
    padding: 0; 
   }
-
-
+	body {
+		background-color: #99ddff;
+	}
   .section1 {
    background-color: #4d4dff;
    height: 70vh;
+   padding: 40px;   
   }
 
   .section2 {
    background-color: #006080;
    height: 500px;
+   padding: 50px;
+   border: 10px;
   }
 
   .section3 {
    background-color: #0059b3;
    height: 1000px;
+   padding: 5vh;
+   border: 5px;
+   margin: 20px;
   }
 
   .section4 {
@@ -27,7 +34,7 @@
   .info {
    position: fixed;
    left: 0;
-   top: 0;
+   bottom: 0;
    height: 70px;
    line-height: 70px;
    width: 100%;
