@@ -1,0 +1,40 @@
+ * {
+   margin: 0;
+   padding: 0; 
+  }
+
+
+  .section1 {
+   background-color: #4d4dff;
+   height: 70vh;
+  }
+
+  .section2 {
+   background-color: #006080;
+   height: 500px;
+  }
+
+  .section3 {
+   background-color: #0059b3;
+   height: 1000px;
+  }
+
+  .section4 {
+   background-color: #008ae6;
+   height: 150vh;
+  }
+
+  .info {
+   position: fixed;
+   left: 0;
+   top: 0;
+   height: 70px;
+   line-height: 70px;
+   width: 100%;
+   box-shadow: 0 0 3px 3px grey;
+   background-color: #777;
+   font-size: 30px;   
+   text-align: center;
+   text-transform: uppercase;
+   font-family: arial;
+  }
